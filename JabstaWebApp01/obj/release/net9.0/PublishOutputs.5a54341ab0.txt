@@ -1,0 +1,7 @@
+C:\temp10\JabstaWebApp01\bin\publish\JabstaWebApp01.exe
+C:\temp10\JabstaWebApp01\bin\publish\appsettings.Development.json
+C:\temp10\JabstaWebApp01\bin\publish\appsettings.json
+C:\temp10\JabstaWebApp01\bin\publish\JabstaWebApp01.dll
+C:\temp10\JabstaWebApp01\bin\publish\JabstaWebApp01.deps.json
+C:\temp10\JabstaWebApp01\bin\publish\JabstaWebApp01.runtimeconfig.json
+C:\temp10\JabstaWebApp01\bin\publish\JabstaWebApp01.pdb
